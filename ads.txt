@@ -1,0 +1,39 @@
+
+<!-- wp:paragraph -->
+<p>Welcome to (mekluvin) Laith Mekdad's Strength Workout Routine, where we detail His workout and methods! Check out our highlighted workouts:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>(mekluvin) Laith Mekdad's Strength Chest Workout</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>(mekluvin) Laith Mekdad's Strength Shoulders Workout</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>(mekluvin) Laith Mekdad's Strength Arms Workout</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:list-item -->
+<li>(mekluvin) Laith Mekdad's Strength Back Workout</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong>About (mekluvin) Laith Mekdad's Program</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>(mekluvin) follows a 4-day split routine, focusing on Chest, Shoulders, Arms, Back</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph {"backgroundColor":"cyan-bluish-gray"} -->
+<p class="has-cyan-bluish-gray-background-color has-background">Looking to follow (mekluvin) Laith Mekdad's workout routine? Click <a href="https://pumpx.app/">Here</a> To Download PumpX and easily add (mekluvin) Laith Mekdad's exercises to your workout!</p>
+<!-- /wp:paragraph -->
